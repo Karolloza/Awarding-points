@@ -1,0 +1,76 @@
+[
+        {
+            "id": 1,
+            "customerId": 1,
+            "name": "John",
+            "surname": "Doe",
+            "email": "JohnDoe@gmail.com",
+            "transactions": [
+                {
+                    "worthTotal": 120,
+                    "date": "2021-01-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 120,
+                    "date": "2021-02-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 120,
+                    "date": "2021-04-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 120,
+                    "date": "2021-04-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 120,
+                    "date": "2021-04-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 120,
+                    "date": "2021-07-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 120,
+                    "date": "2021-08-26T17:03:42.649+00:00"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "customerId": 2,
+            "name": "Dwayne",
+            "surname": "Johnson",
+            "email": "DwayneJohnson@gmail.com",
+            "transactions": [
+                {
+                    "worthTotal": 20,
+                    "date": "2021-01-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 100,
+                    "date": "2021-02-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 77,
+                    "date": "2021-04-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 123,
+                    "date": "2021-04-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 555,
+                    "date": "2021-04-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 50,
+                    "date": "2021-07-26T17:03:42.649+00:00"
+                },
+                {
+                    "worthTotal": 2,
+                    "date": "2021-08-26T17:03:42.649+00:00"
+                }
+            ]
+        }
+]
